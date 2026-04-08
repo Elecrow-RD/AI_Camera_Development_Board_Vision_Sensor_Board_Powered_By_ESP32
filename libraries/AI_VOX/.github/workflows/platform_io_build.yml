@@ -1,0 +1,33 @@
+name: PlatformIO Build
+
+on:
+  push:
+    branches: ["main", "v*"]
+  pull_request:
+    branches: ["main", "v*"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        target: ["esp32_ai_voice", "esp32_ai_voice_display_lcd", "esp32_ai_voice_display_oled", "esp32s3_ai_voice", "esp32s3_ai_voice_display_lcd", "esp32s3_ai_voice_display_oled", "ai_vox_board"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/pip
+            ~/.platformio/.cache
+          key: ${{ runner.os }}-pio
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install PlatformIO Core
+        run: pip install --upgrade platformio
+
+      - name: Install Packages
+        run: pio pkg install -e ${{matrix.target}}
+
+      - name: Build PlatformIO Project
+        run: pio run -e ${{matrix.target}}
