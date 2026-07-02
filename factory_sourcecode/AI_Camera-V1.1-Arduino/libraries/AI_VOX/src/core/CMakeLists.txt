@@ -1,0 +1,15 @@
+idf_component_register(SRCS 
+                       "ai_vox.cpp"
+                       "audio_input_stream.cpp"
+                       "audio_output_stream_2.cpp"
+                       "audio_session.cpp"
+                       "display.cpp"
+                       "fetch_config.cpp"
+                       "meminfo.cpp"
+                       "oled_display.cpp"
+                       "opus_audio_encoder.cpp"
+                       "font_awesome_14_1.c"
+                       "font_awesome_30_1.c"
+                       "font_puhui_14_1.c"
+                       INCLUDE_DIRS "."
+                       REQUIRES "libopus" "mbedtls" "json" "app_update" "spi_flash" "esp_http_client" "mqtt")
