@@ -1,18 +1,20 @@
 # AI_Camera
-## 介绍
-AI_Camera作为集成AI在线识别和AI聊天机器人的入口，利用大模型的AI能力实现图片识别和在线对话。
-## 功能介绍
-- 支持HTTP协议发送图片与识别
-- 支持Websocket通信协议
-- 采用 OPUS 音频编解码
-- 基于流式 ASR + LLM + TTS 架构的语音交互
-- LCD 显示屏，支持表情显示
-- 通过设备端 IOT 实现设备控制（音量、灯光、GPIO 等）
-## 硬件版本
-- 支持的硬件测试版本：AI_Camera V0.4
-- 支持的硬件出货版本：AI_Camera V1.0
-## 开发环境
+## Introduction
+AI_Camera serves as a gateway that integrates AI-powered online image recognition and AI chatbots, leveraging the capabilities of large language models to enable image recognition and online conversations.
+## Features
+- Supports image submission and recognition via the HTTP protocol
+- Supports the WebSocket communication protocol
+- Uses the OPUS audio codec
+- Voice interaction based on a streaming ASR + LLM + TTS architecture
+- LCD display with support for emoji display
+- Device control (volume, lights, GPIO, etc.) via on-device IoT
+## Hardware Versions
+- Supported hardware test version: AI_Camera V0.4
+- Supported hardware production version: AI_Camera V1.0
+## Development Environment
 - Arduino IDE 2.3.4
-- ESP版本：3.2.0
-- 使用Windows环境开发
+- ESP version: 3.2.0
+- Developed in a Windows environment
 ## Other
+
+Translated with DeepL.com (free version)
