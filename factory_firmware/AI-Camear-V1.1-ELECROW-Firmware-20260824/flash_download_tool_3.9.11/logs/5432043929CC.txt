@@ -1,0 +1,42 @@
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C6
+Download mode: uart
+Start time: 20260618-11:58
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x20
+device_id: 0x4016
+fs:0x600200
+address/file: 0 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader_0x0000.bin
+address/file: 32768 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partition-table_0x8000.bin
+address/file: 53248 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ota_data_initial_0xD000.bin
+address/file: 65536 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\network_adapter_0x10000.bin
+Wrote 24192 bytes (15181 compressed) at 0x00000000 in 0.6 seconds (effective 305.4 kbit/s)...
+Wrote 3072 bytes (128 compressed) at 0x00008000 in 0.0 seconds (effective 1626.3 kbit/s)...
+Wrote 8192 bytes (31 compressed) at 0x0000d000 in 0.1 seconds (effective 1149.4 kbit/s)...
+Wrote 1204048 bytes (698594 compressed) at 0x00010000 in 19.1 seconds (effective 503.9 kbit/s)...
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader_0x0000.bin
+File  md5: 07b604f59460b58239bd75720268d536
+Flash md5: 07b604f59460b58239bd75720268d536
+Hash of data verified.
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partition-table_0x8000.bin
+File  md5: 4ecb8e884df0fdc3aff34746296918be
+Flash md5: 4ecb8e884df0fdc3aff34746296918be
+Hash of data verified.
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ota_data_initial_0xD000.bin
+File  md5: 84d04c9d6cc8ef35bf825d51a5277699
+Flash md5: 84d04c9d6cc8ef35bf825d51a5277699
+Hash of data verified.
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\network_adapter_0x10000.bin
+File  md5: 6a851a0c1e79e6e8314037b1c7c8ef10
+Flash md5: 6a851a0c1e79e6e8314037b1c7c8ef10
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 26 s
+Download result: PASS
+*************************** END ****************************
+

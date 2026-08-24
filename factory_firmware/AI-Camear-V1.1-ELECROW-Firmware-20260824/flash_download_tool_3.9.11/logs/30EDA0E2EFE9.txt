@@ -1,0 +1,42 @@
+Download button pressed
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: uart
+Start time: 20260724-17:15
+Connect baud: 115200
+Com:COM299
+connecting...
+manufacturer_id: 0xc8
+device_id: 0x4018
+fs:0x200200
+address/file: 8192 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+address/file: 32768 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\partition-table.bin
+address/file: 53248 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\ota_data_initial.bin
+address/file: 65536 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\P4.bin
+Wrote 23264 bytes (14295 compressed) at 0x00002000 in 0.5 seconds (effective 392.8 kbit/s)...
+Wrote 3072 bytes (143 compressed) at 0x00008000 in 0.0 seconds (effective 1756.7 kbit/s)...
+Wrote 8192 bytes (31 compressed) at 0x0000d000 in 0.1 seconds (effective 1266.2 kbit/s)...
+Wrote 1661184 bytes (831113 compressed) at 0x00010000 in 13.5 seconds (effective 981.1 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+File  md5: ccf32c7a0f18f1357e0627ad9f9e6deb
+Flash md5: ccf32c7a0f18f1357e0627ad9f9e6deb
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\partition-table.bin
+File  md5: 480f79d688f787506e6c0503d7fbd163
+Flash md5: 480f79d688f787506e6c0503d7fbd163
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\ota_data_initial.bin
+File  md5: 84d04c9d6cc8ef35bf825d51a5277699
+Flash md5: 84d04c9d6cc8ef35bf825d51a5277699
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\P4.bin
+File  md5: 0885d1a4e5eea711c24f9a649b9761b3
+Flash md5: 0885d1a4e5eea711c24f9a649b9761b3
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 21 s
+Download result: PASS
+*************************** END ****************************
+

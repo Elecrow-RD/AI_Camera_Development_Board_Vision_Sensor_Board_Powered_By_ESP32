@@ -1,0 +1,300 @@
+Download button pressed
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: uart
+Start time: 20260702-18:30
+Connect baud: 115200
+Com:COM5
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 8192 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader_0x2000.bin
+address/file: 32768 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partition-table_0x8000.bin
+address/file: 53248 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ota_data_initial_0xd000.bin
+address/file: 65536 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ESP32-P4-Adcance-HMI-Display-UI_0x10000.bin
+address/file: 11534336 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ESP32-P4-Adcance-HMI-Display-Test_0xA00000.bin
+set STOP FLG: Truecom closed
+Total use time: 5 s
+Download result: PASS
+*************************** END ****************************
+
+set state: ESP_DL_STOP
+Download button pressed
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: uart
+Start time: 20260702-18:30
+Connect baud: 115200
+Com:COM5
+connecting...
+set STOP FLG: Truefs:0x600200
+com closed
+Total use time: 3 s
+Download result: FAIL
+*************************** END ****************************
+
+set state: ESP_DL_STOP
+Download button pressed
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: uart
+Start time: 20260702-18:31
+Connect baud: 115200
+Com:COM5
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 8192 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader_0x2000.bin
+address/file: 32768 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partition-table_0x8000.bin
+address/file: 53248 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ota_data_initial_0xd000.bin
+address/file: 65536 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ESP32-P4-Adcance-HMI-Display-UI_0x10000.bin
+address/file: 10485760 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ESP32-P4-Adcance-HMI-Display-Test_0xA00000.bin
+address/file: 12582912 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\storage_0xc00000.bin
+Wrote 24112 bytes (14931 compressed) at 0x00002000 in 0.4 seconds (effective 431.2 kbit/s)...
+Wrote 3072 bytes (147 compressed) at 0x00008000 in 0.0 seconds (effective 1858.0 kbit/s)...
+Wrote 8192 bytes (31 compressed) at 0x0000d000 in 0.1 seconds (effective 1052.3 kbit/s)...
+Wrote 9796400 bytes (2555880 compressed) at 0x00010000 in 73.8 seconds (effective 1062.3 kbit/s)...
+Wrote 1802816 bytes (996247 compressed) at 0x00a00000 in 16.8 seconds (effective 857.9 kbit/s)...
+Wrote 4194304 bytes (3199542 compressed) at 0x00c00000 in 47.3 seconds (effective 709.1 kbit/s)...
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader_0x2000.bin
+File  md5: c0b888646f8a085c49a48f5eae8d2b60
+Flash md5: c0b888646f8a085c49a48f5eae8d2b60
+Hash of data verified.
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partition-table_0x8000.bin
+File  md5: 0a83a2150fc7c8ef48fcbd8a1480d37e
+Flash md5: 0a83a2150fc7c8ef48fcbd8a1480d37e
+Hash of data verified.
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ota_data_initial_0xd000.bin
+File  md5: 84d04c9d6cc8ef35bf825d51a5277699
+Flash md5: 84d04c9d6cc8ef35bf825d51a5277699
+Hash of data verified.
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ESP32-P4-Adcance-HMI-Display-UI_0x10000.bin
+File  md5: 0618f12ce06feedca7c3a23ebdfbe300
+Flash md5: 0618f12ce06feedca7c3a23ebdfbe300
+Hash of data verified.
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ESP32-P4-Adcance-HMI-Display-Test_0xA00000.bin
+File  md5: 1938664961c64e88536affb779255eac
+Flash md5: 1938664961c64e88536affb779255eac
+Hash of data verified.
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\storage_0xc00000.bin
+File  md5: d0ecd9b6879696f5dbcd220e2d7628a3
+Flash md5: d0ecd9b6879696f5dbcd220e2d7628a3
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 173 s
+Download result: PASS
+*************************** END ****************************
+
+Erase button pressed
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: uart
+Start time: 20260723-09:41
+Connect baud: 115200
+Com:COM299
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+com closed
+Total use time: 61 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: uart
+Start time: 20260723-09:42
+Connect baud: 115200
+Com:COM299
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 8192 C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader_0x2000.bin
+address/file: 32768 C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partition-table_0x8000.bin
+address/file: 53248 C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ota_data_initial_0xd000.bin
+address/file: 65536 C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ESP32-P4-Adcance-HMI-Display-UI_0x10000.bin
+address/file: 10485760 C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ESP32-P4-Adcance-HMI-Display-Test_0xA00000.bin
+address/file: 12582912 C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\storage_0xc00000.bin
+Wrote 24112 bytes (14933 compressed) at 0x00002000 in 0.4 seconds (effective 461.0 kbit/s)...
+Wrote 3072 bytes (147 compressed) at 0x00008000 in 0.0 seconds (effective 1747.0 kbit/s)...
+Wrote 8192 bytes (31 compressed) at 0x0000d000 in 0.1 seconds (effective 1262.9 kbit/s)...
+Wrote 9797040 bytes (2556091 compressed) at 0x00010000 in 76.6 seconds (effective 1023.3 kbit/s)...
+Wrote 1802816 bytes (996247 compressed) at 0x00a00000 in 18.2 seconds (effective 793.2 kbit/s)...
+Wrote 4194304 bytes (3199542 compressed) at 0x00c00000 in 51.6 seconds (effective 650.7 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader_0x2000.bin
+File  md5: f9d465fb8c8b028784ff291ead36e8e6
+Flash md5: f9d465fb8c8b028784ff291ead36e8e6
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partition-table_0x8000.bin
+File  md5: 0a83a2150fc7c8ef48fcbd8a1480d37e
+Flash md5: 0a83a2150fc7c8ef48fcbd8a1480d37e
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ota_data_initial_0xd000.bin
+File  md5: 84d04c9d6cc8ef35bf825d51a5277699
+Flash md5: 84d04c9d6cc8ef35bf825d51a5277699
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ESP32-P4-Adcance-HMI-Display-UI_0x10000.bin
+File  md5: 65ad65a62cfc02dbaa874a4636bcebca
+Flash md5: 65ad65a62cfc02dbaa874a4636bcebca
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ESP32-P4-Adcance-HMI-Display-Test_0xA00000.bin
+File  md5: 1938664961c64e88536affb779255eac
+Flash md5: 1938664961c64e88536affb779255eac
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\storage_0xc00000.bin
+File  md5: d0ecd9b6879696f5dbcd220e2d7628a3
+Flash md5: d0ecd9b6879696f5dbcd220e2d7628a3
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 183 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: uart
+Start time: 20260723-10:43
+Connect baud: 115200
+Com:COM326
+connecting...
+Download button pressed
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: uart
+Start time: 20260723-11:52
+Connect baud: 115200
+Com:COM299
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\Advancce-P4-WiFi-test_merge_0x0000.bin
+Wrote 739040 bytes (359858 compressed) at 0x00000000 in 7.0 seconds (effective 846.6 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\Advancce-P4-WiFi-test_merge_0x0000.bin
+File  md5: 46b477922a021da4b0cbc0c4aa6dd206
+Flash md5: 46b477922a021da4b0cbc0c4aa6dd206
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 12 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: uart
+Start time: 20260723-14:42
+Connect baud: 115200
+Com:COM299
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 8192 C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader_0x2000.bin
+address/file: 32768 C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partition-table_0x8000.bin
+address/file: 53248 C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ota_data_initial_0xd000.bin
+address/file: 65536 C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ESP32-P4-Adcance-HMI-Display-UI_0x10000.bin
+address/file: 10485760 C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ESP32-P4-Adcance-HMI-Display-Test_0xA00000.bin
+address/file: 12582912 C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\storage_0xc00000.bin
+Wrote 24112 bytes (14933 compressed) at 0x00002000 in 0.5 seconds (effective 413.5 kbit/s)...
+Wrote 3072 bytes (147 compressed) at 0x00008000 in 0.0 seconds (effective 1762.9 kbit/s)...
+Wrote 8192 bytes (31 compressed) at 0x0000d000 in 0.1 seconds (effective 1061.5 kbit/s)...
+Wrote 9797040 bytes (2556194 compressed) at 0x00010000 in 75.5 seconds (effective 1038.3 kbit/s)...
+Wrote 1802816 bytes (996247 compressed) at 0x00a00000 in 18.2 seconds (effective 792.4 kbit/s)...
+Wrote 4194304 bytes (3199542 compressed) at 0x00c00000 in 51.3 seconds (effective 654.4 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader_0x2000.bin
+File  md5: f9d465fb8c8b028784ff291ead36e8e6
+Flash md5: f9d465fb8c8b028784ff291ead36e8e6
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partition-table_0x8000.bin
+File  md5: 0a83a2150fc7c8ef48fcbd8a1480d37e
+Flash md5: 0a83a2150fc7c8ef48fcbd8a1480d37e
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ota_data_initial_0xd000.bin
+File  md5: 84d04c9d6cc8ef35bf825d51a5277699
+Flash md5: 84d04c9d6cc8ef35bf825d51a5277699
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ESP32-P4-Adcance-HMI-Display-UI_0x10000.bin
+File  md5: 47867b1668019f551253c272367ca29d
+Flash md5: 47867b1668019f551253c272367ca29d
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ESP32-P4-Adcance-HMI-Display-Test_0xA00000.bin
+File  md5: 1938664961c64e88536affb779255eac
+Flash md5: 1938664961c64e88536affb779255eac
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\storage_0xc00000.bin
+File  md5: d0ecd9b6879696f5dbcd220e2d7628a3
+Flash md5: d0ecd9b6879696f5dbcd220e2d7628a3
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 182 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: uart
+Start time: 20260724-09:29
+Connect baud: 115200
+Com:COM299
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 8192 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\bootloader_0x2000.bin
+address/file: 32768 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\partition-table_0x8000.bin
+address/file: 53248 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\ota_data_initial_0xd000.bin
+address/file: 65536 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\ESP32-P4-Adcance-HMI-Display-UI_0x10000.bin
+address/file: 10485760 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\ESP32-P4-Adcance-HMI-Display-Test_0xA00000.bin
+address/file: 12582912 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\storage_0xc00000.bin
+Wrote 24112 bytes (14933 compressed) at 0x00002000 in 0.5 seconds (effective 412.2 kbit/s)...
+Wrote 3072 bytes (147 compressed) at 0x00008000 in 0.0 seconds (effective 1863.6 kbit/s)...
+Wrote 8192 bytes (31 compressed) at 0x0000d000 in 0.1 seconds (effective 1078.3 kbit/s)...
+Wrote 9797040 bytes (2556087 compressed) at 0x00010000 in 76.0 seconds (effective 1031.2 kbit/s)...
+Wrote 1802816 bytes (996247 compressed) at 0x00a00000 in 18.3 seconds (effective 790.3 kbit/s)...
+Wrote 4194304 bytes (3199542 compressed) at 0x00c00000 in 51.8 seconds (effective 647.2 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\bootloader_0x2000.bin
+File  md5: f9d465fb8c8b028784ff291ead36e8e6
+Flash md5: f9d465fb8c8b028784ff291ead36e8e6
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\partition-table_0x8000.bin
+File  md5: 0a83a2150fc7c8ef48fcbd8a1480d37e
+Flash md5: 0a83a2150fc7c8ef48fcbd8a1480d37e
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\ota_data_initial_0xd000.bin
+File  md5: 84d04c9d6cc8ef35bf825d51a5277699
+Flash md5: 84d04c9d6cc8ef35bf825d51a5277699
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\ESP32-P4-Adcance-HMI-Display-UI_0x10000.bin
+File  md5: 24a9c7a7e9d0b35180ae77a5c474d38f
+Flash md5: 24a9c7a7e9d0b35180ae77a5c474d38f
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\ESP32-P4-Adcance-HMI-Display-Test_0xA00000.bin
+File  md5: 1938664961c64e88536affb779255eac
+Flash md5: 1938664961c64e88536affb779255eac
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\storage_0xc00000.bin
+File  md5: d0ecd9b6879696f5dbcd220e2d7628a3
+Flash md5: d0ecd9b6879696f5dbcd220e2d7628a3
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 184 s
+Download result: PASS
+*************************** END ****************************
+

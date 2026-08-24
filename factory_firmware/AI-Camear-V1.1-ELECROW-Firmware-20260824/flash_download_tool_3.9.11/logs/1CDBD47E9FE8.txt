@@ -1,0 +1,345 @@
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260731-15:17
+Connect baud: 115200
+Com:COM299
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.bootloader.bin
+address/file: 32768 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.partitions.bin
+address/file: 65536 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.ino.bin
+Wrote 19984 bytes (13014 compressed) at 0x00000000 in 0.4 seconds (effective 362.7 kbit/s)...
+Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.1 seconds (effective 423.8 kbit/s)...
+Wrote 772672 bytes (446792 compressed) at 0x00010000 in 7.7 seconds (effective 808.0 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.bootloader.bin
+File  md5: 857523fcbf3b7a3caf854e30a124131b
+Flash md5: 857523fcbf3b7a3caf854e30a124131b
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.partitions.bin
+File  md5: a039c66cd3488176037b616b7595fe72
+Flash md5: a039c66cd3488176037b616b7595fe72
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.ino.bin
+File  md5: 548777d0ff46cc56e0ab32f38dbfbadf
+Flash md5: 548777d0ff46cc56e0ab32f38dbfbadf
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 14 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260731-15:17
+Connect baud: 115200
+Com:COM299
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.bootloader.bin
+address/file: 32768 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.partitions.bin
+address/file: 65536 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.ino.bin
+Wrote 19984 bytes (13014 compressed) at 0x00000000 in 0.4 seconds (effective 362.5 kbit/s)...
+Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.1 seconds (effective 428.8 kbit/s)...
+Wrote 772672 bytes (446792 compressed) at 0x00010000 in 7.6 seconds (effective 813.3 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.bootloader.bin
+File  md5: 857523fcbf3b7a3caf854e30a124131b
+Flash md5: 857523fcbf3b7a3caf854e30a124131b
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.partitions.bin
+File  md5: a039c66cd3488176037b616b7595fe72
+Flash md5: a039c66cd3488176037b616b7595fe72
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.ino.bin
+File  md5: 548777d0ff46cc56e0ab32f38dbfbadf
+Flash md5: 548777d0ff46cc56e0ab32f38dbfbadf
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 13 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260803-14:13
+Connect baud: 115200
+Com:COM299
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\bootloader-0x00.bin
+address/file: 32768 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\partition-table-0x8000.bin
+address/file: 65536 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\ESP32S3-WIFI-0x10000.bin
+Wrote 22528 bytes (14312 compressed) at 0x00000000 in 0.5 seconds (effective 351.6 kbit/s)...
+Wrote 3072 bytes (103 compressed) at 0x00008000 in 0.1 seconds (effective 431.4 kbit/s)...
+Wrote 784544 bytes (514497 compressed) at 0x00010000 in 7.7 seconds (effective 812.9 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\bootloader-0x00.bin
+File  md5: 04f74cd72e7dfcfbf436f16f4065d463
+Flash md5: 04f74cd72e7dfcfbf436f16f4065d463
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\partition-table-0x8000.bin
+File  md5: 5d61d196adc3dba01928f264eb169be7
+Flash md5: 5d61d196adc3dba01928f264eb169be7
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\ESP32S3-WIFI-0x10000.bin
+File  md5: 6a11c42641e9c042454e972021c3ea36
+Flash md5: 6a11c42641e9c042454e972021c3ea36
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 14 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260803-14:18
+Connect baud: 115200
+Com:COM299
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\ESP32S3-BLE-client_0x00.bin
+Wrote 4194304 bytes (352503 compressed) at 0x00000000 in 26.2 seconds (effective 1279.3 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\ESP32S3-BLE-client_0x00.bin
+File  md5: 9a13636c05eceb977f3022deefc76c58
+Flash md5: 9a13636c05eceb977f3022deefc76c58
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 37 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260803-14:38
+Connect baud: 115200
+Com:COM299
+connecting...
+set STOP FLG: Trueset state: ESP_DL_STOP
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260803-14:38
+Connect baud: 115200
+Com:COM299
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.bootloader.bin
+address/file: 32768 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.partitions.bin
+address/file: 65536 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.ino.bin
+Wrote 19984 bytes (13014 compressed) at 0x00000000 in 0.4 seconds (effective 365.1 kbit/s)...
+Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.1 seconds (effective 315.4 kbit/s)...
+Wrote 772672 bytes (446792 compressed) at 0x00010000 in 7.6 seconds (effective 810.4 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.bootloader.bin
+File  md5: 857523fcbf3b7a3caf854e30a124131b
+Flash md5: 857523fcbf3b7a3caf854e30a124131b
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.partitions.bin
+File  md5: a039c66cd3488176037b616b7595fe72
+Flash md5: a039c66cd3488176037b616b7595fe72
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.ino.bin
+File  md5: 548777d0ff46cc56e0ab32f38dbfbadf
+Flash md5: 548777d0ff46cc56e0ab32f38dbfbadf
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 14 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260803-15:09
+Connect baud: 115200
+Com:COM299
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Explorer_Board_HardwareTest.bootloader.bin
+address/file: 32768 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Explorer_Board_HardwareTest.partitions.bin
+address/file: 65536 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Explorer_Board_HardwareTest.ino.bin
+Wrote 19984 bytes (13014 compressed) at 0x00000000 in 0.4 seconds (effective 366.1 kbit/s)...
+Wrote 3072 bytes (137 compressed) at 0x00008000 in 0.1 seconds (effective 416.8 kbit/s)...
+Wrote 1449200 bytes (906653 compressed) at 0x00010000 in 14.4 seconds (effective 806.6 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Explorer_Board_HardwareTest.bootloader.bin
+File  md5: 857523fcbf3b7a3caf854e30a124131b
+Flash md5: 857523fcbf3b7a3caf854e30a124131b
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Explorer_Board_HardwareTest.partitions.bin
+File  md5: 70007348574201233bc0cb17155e9d12
+Flash md5: 70007348574201233bc0cb17155e9d12
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Explorer_Board_HardwareTest.ino.bin
+File  md5: 585ccc89ea6cfca6492a0f0d0e2e94d5
+Flash md5: 585ccc89ea6cfca6492a0f0d0e2e94d5
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 21 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260803-15:34
+Connect baud: 115200
+Com:COM299
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\ESP32S3-BLE-client_0x00.bin
+Wrote 4194304 bytes (352503 compressed) at 0x00000000 in 26.1 seconds (effective 1287.6 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\ESP32S3-BLE-client_0x00.bin
+File  md5: 9a13636c05eceb977f3022deefc76c58
+Flash md5: 9a13636c05eceb977f3022deefc76c58
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 37 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260803-16:25
+Connect baud: 115200
+Com:COM299
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\ESP32S3-BLE-client_0x00.bin
+Wrote 4194304 bytes (352503 compressed) at 0x00000000 in 26.0 seconds (effective 1289.4 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\ESP32S3-BLE-client_0x00.bin
+File  md5: 9a13636c05eceb977f3022deefc76c58
+Flash md5: 9a13636c05eceb977f3022deefc76c58
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 37 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260803-16:27
+Connect baud: 115200
+Com:COM299
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.bootloader.bin
+address/file: 32768 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.partitions.bin
+address/file: 65536 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.ino.bin
+Wrote 19984 bytes (13014 compressed) at 0x00000000 in 0.4 seconds (effective 359.5 kbit/s)...
+Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.1 seconds (effective 445.6 kbit/s)...
+Wrote 772672 bytes (446792 compressed) at 0x00010000 in 7.7 seconds (effective 799.1 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.bootloader.bin
+File  md5: 857523fcbf3b7a3caf854e30a124131b
+Flash md5: 857523fcbf3b7a3caf854e30a124131b
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.partitions.bin
+File  md5: a039c66cd3488176037b616b7595fe72
+Flash md5: a039c66cd3488176037b616b7595fe72
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\LR2021_Exporer_Board_ESP32S3_LR2021_260730.ino.bin
+File  md5: 548777d0ff46cc56e0ab32f38dbfbadf
+Flash md5: 548777d0ff46cc56e0ab32f38dbfbadf
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 14 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260803-18:46
+Connect baud: 115200
+Com:COM293
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\ESP32S3-BLE-server_0x00.bin
+Wrote 4194304 bytes (345493 compressed) at 0x00000000 in 25.9 seconds (effective 1293.9 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\ESP32S3-BLE-server_0x00.bin
+File  md5: 63c3b98265b540f3f22fb8f34a2a8511
+Flash md5: 63c3b98265b540f3f22fb8f34a2a8511
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 37 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260804-09:46
+Connect baud: 115200
+Com:COM293
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\ESP32S3-BLE-server_0x00.bin
+Wrote 4194304 bytes (345493 compressed) at 0x00000000 in 25.8 seconds (effective 1299.8 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\ESP32S3-BLE-server_0x00.bin
+File  md5: 63c3b98265b540f3f22fb8f34a2a8511
+Flash md5: 63c3b98265b540f3f22fb8f34a2a8511
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 37 s
+Download result: PASS
+*************************** END ****************************
+

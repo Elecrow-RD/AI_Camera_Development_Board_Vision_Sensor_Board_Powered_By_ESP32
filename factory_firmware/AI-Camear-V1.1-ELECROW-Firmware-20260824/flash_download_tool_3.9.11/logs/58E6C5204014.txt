@@ -1,0 +1,42 @@
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C6
+Download mode: uart
+Start time: 20260702-10:07
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+address/file: 0 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader_0x0000.bin
+address/file: 32768 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partition-table_0x8000.bin
+address/file: 53248 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ota_data_initial_0xD000.bin
+address/file: 65536 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\network_adapter_0x10000.bin
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C6
+Download mode: uart
+Start time: 20260702-10:08
+Connect baud: 115200
+Com:COM3
+connecting...
+set STOP FLG: Trueset state: ESP_DL_STOP
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C6
+Download mode: uart
+Start time: 20260702-10:08
+Connect baud: 115200
+Com:COM3
+connecting...
+set STOP FLG: Trueset STOP FLG: Trueset state: ESP_DL_STOP
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C6
+Download mode: uart
+Start time: 20260702-10:10
+Connect baud: 115200
+Com:COM3
+connecting...
+set STOP FLG: Trueset state: ESP_DL_STOP

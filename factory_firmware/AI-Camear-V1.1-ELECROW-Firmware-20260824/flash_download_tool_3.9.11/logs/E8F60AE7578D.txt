@@ -1,0 +1,51 @@
+Download button pressed
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: uart
+Start time: 20260618-10:24
+Connect baud: 115200
+Com:COM6
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\firmware-ELECROW-ThinkNode-MX-2.8.0.782356b.factory_0x0000.bin
+address/file: 11599872 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\storage.bin
+set STOP FLG: Truecom closed
+Total use time: 9 s
+Download result: PASS
+*************************** END ****************************
+
+set state: ESP_DL_STOP
+Download button pressed
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: uart
+Start time: 20260618-10:30
+Connect baud: 115200
+Com:COM6
+serial port open error
+Download button pressed
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: uart
+Start time: 20260618-10:30
+Connect baud: 115200
+Com:COM13
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ESP32-P4-Adcance-HMI-Display_0x0000.bin
+Wrote 1847984 bytes (893937 compressed) at 0x00000000 in 16.7 seconds (effective 886.3 kbit/s)...
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ESP32-P4-Adcance-HMI-Display_0x0000.bin
+File  md5: 5fbbc5c5a21864544d2b7878859ae6d1
+Flash md5: 5fbbc5c5a21864544d2b7878859ae6d1
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 23 s
+Download result: PASS
+*************************** END ****************************
+

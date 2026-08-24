@@ -1,0 +1,567 @@
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260731-16:19
+Connect baud: 115200
+Com:COM299
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.bootloader.bin
+address/file: 32768 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.partitions.bin
+address/file: 65536 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.bin
+Wrote 20208 bytes (13058 compressed) at 0x00000000 in 0.4 seconds (effective 389.8 kbit/s)...
+Wrote 3072 bytes (134 compressed) at 0x00008000 in 0.1 seconds (effective 464.0 kbit/s)...
+Wrote 2942032 bytes (1598659 compressed) at 0x00010000 in 28.2 seconds (effective 835.3 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.bootloader.bin
+File  md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Flash md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.partitions.bin
+File  md5: 85d302a40c50b3e9e2803f55e7b1d085
+Flash md5: 85d302a40c50b3e9e2803f55e7b1d085
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.bin
+File  md5: baa9ddb6a16e4217627e5630cc4c5fa6
+Flash md5: baa9ddb6a16e4217627e5630cc4c5fa6
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 38 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260806-16:11
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-test.ino.bootloader.bin
+address/file: 32768 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-test.ino.partitions.bin
+address/file: 57344 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\boot_app0.bin
+address/file: 65536 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-test.ino.bin
+Wrote 14880 bytes (10566 compressed) at 0x00000000 in 0.3 seconds (effective 384.1 kbit/s)...
+Wrote 3072 bytes (137 compressed) at 0x00008000 in 0.1 seconds (effective 477.2 kbit/s)...
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.1 seconds (effective 657.5 kbit/s)...
+Wrote 1860304 bytes (1190631 compressed) at 0x00010000 in 17.3 seconds (effective 861.5 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-test.ino.bootloader.bin
+File  md5: fcd87244d3bd53528badc6682a8c566a
+Flash md5: fcd87244d3bd53528badc6682a8c566a
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-test.ino.partitions.bin
+File  md5: db4cd63ce66e5d4fa1591916beb3a878
+Flash md5: db4cd63ce66e5d4fa1591916beb3a878
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\boot_app0.bin
+File  md5: e6327541e2dc394ca2c3b3280ac0f39f
+Flash md5: e6327541e2dc394ca2c3b3280ac0f39f
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-test.ino.bin
+File  md5: 81c84355e96489df8e23b99d04c9517b
+Flash md5: 81c84355e96489df8e23b99d04c9517b
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 24 s
+Download result: PASS
+*************************** END ****************************
+
+Erase button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260806-16:22
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+com closed
+Total use time: 31 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260806-16:23
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-test.ino.bootloader.bin
+address/file: 32768 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-test.ino.partitions.bin
+address/file: 57344 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\boot_app0.bin
+address/file: 65536 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-test.ino.bin
+Wrote 14880 bytes (10566 compressed) at 0x00000000 in 0.3 seconds (effective 386.4 kbit/s)...
+Wrote 3072 bytes (137 compressed) at 0x00008000 in 0.1 seconds (effective 484.5 kbit/s)...
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.1 seconds (effective 623.8 kbit/s)...
+Wrote 1860304 bytes (1190631 compressed) at 0x00010000 in 17.2 seconds (effective 866.3 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-test.ino.bootloader.bin
+File  md5: fcd87244d3bd53528badc6682a8c566a
+Flash md5: fcd87244d3bd53528badc6682a8c566a
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-test.ino.partitions.bin
+File  md5: db4cd63ce66e5d4fa1591916beb3a878
+Flash md5: db4cd63ce66e5d4fa1591916beb3a878
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\boot_app0.bin
+File  md5: e6327541e2dc394ca2c3b3280ac0f39f
+Flash md5: e6327541e2dc394ca2c3b3280ac0f39f
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-test.ino.bin
+File  md5: 81c84355e96489df8e23b99d04c9517b
+Flash md5: 81c84355e96489df8e23b99d04c9517b
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 24 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260806-16:26
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.bootloader.bin
+address/file: 32768 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.partitions.bin
+address/file: 65536 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.bin
+Wrote 20208 bytes (13058 compressed) at 0x00000000 in 0.4 seconds (effective 402.4 kbit/s)...
+Wrote 3072 bytes (134 compressed) at 0x00008000 in 0.1 seconds (effective 479.5 kbit/s)...
+Wrote 2942032 bytes (1598659 compressed) at 0x00010000 in 26.3 seconds (effective 895.9 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.bootloader.bin
+File  md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Flash md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.partitions.bin
+File  md5: 85d302a40c50b3e9e2803f55e7b1d085
+Flash md5: 85d302a40c50b3e9e2803f55e7b1d085
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.bin
+File  md5: baa9ddb6a16e4217627e5630cc4c5fa6
+Flash md5: baa9ddb6a16e4217627e5630cc4c5fa6
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 35 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260806-16:30
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-test.ino.bootloader.bin
+address/file: 32768 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-test.ino.partitions.bin
+address/file: 57344 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\boot_app0.bin
+address/file: 65536 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-test.ino.bin
+Wrote 14880 bytes (10566 compressed) at 0x00000000 in 0.3 seconds (effective 380.4 kbit/s)...
+Wrote 3072 bytes (137 compressed) at 0x00008000 in 0.1 seconds (effective 474.3 kbit/s)...
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.1 seconds (effective 636.3 kbit/s)...
+Wrote 1860304 bytes (1190631 compressed) at 0x00010000 in 17.4 seconds (effective 853.2 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-test.ino.bootloader.bin
+File  md5: fcd87244d3bd53528badc6682a8c566a
+Flash md5: fcd87244d3bd53528badc6682a8c566a
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-test.ino.partitions.bin
+File  md5: db4cd63ce66e5d4fa1591916beb3a878
+Flash md5: db4cd63ce66e5d4fa1591916beb3a878
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\boot_app0.bin
+File  md5: e6327541e2dc394ca2c3b3280ac0f39f
+Flash md5: e6327541e2dc394ca2c3b3280ac0f39f
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-test.ino.bin
+File  md5: 81c84355e96489df8e23b99d04c9517b
+Flash md5: 81c84355e96489df8e23b99d04c9517b
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 25 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260806-16:41
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-V1.01-test.ino.bootloader.bin
+address/file: 32768 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-V1.01-test.ino.partitions.bin
+address/file: 57344 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\boot_app0.bin
+address/file: 65536 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-V1.01-test.ino.bin
+Wrote 20208 bytes (13058 compressed) at 0x00000000 in 0.4 seconds (effective 403.2 kbit/s)...
+Wrote 3072 bytes (137 compressed) at 0x00008000 in 0.0 seconds (effective 506.5 kbit/s)...
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.1 seconds (effective 625.9 kbit/s)...
+Wrote 1735728 bytes (1086150 compressed) at 0x00010000 in 16.1 seconds (effective 859.9 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-V1.01-test.ino.bootloader.bin
+File  md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Flash md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-V1.01-test.ino.partitions.bin
+File  md5: db4cd63ce66e5d4fa1591916beb3a878
+Flash md5: db4cd63ce66e5d4fa1591916beb3a878
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\boot_app0.bin
+File  md5: e6327541e2dc394ca2c3b3280ac0f39f
+Flash md5: e6327541e2dc394ca2c3b3280ac0f39f
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-V1.01-test.ino.bin
+File  md5: 863b9da2cae059de37ecca6e2c5b1950
+Flash md5: 863b9da2cae059de37ecca6e2c5b1950
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 23 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260806-17:45
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.bootloader.bin
+address/file: 32768 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.partitions.bin
+address/file: 65536 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.bin
+Wrote 20208 bytes (13058 compressed) at 0x00000000 in 0.4 seconds (effective 396.8 kbit/s)...
+Wrote 3072 bytes (134 compressed) at 0x00008000 in 0.0 seconds (effective 498.0 kbit/s)...
+Wrote 2942032 bytes (1598659 compressed) at 0x00010000 in 26.5 seconds (effective 888.2 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.bootloader.bin
+File  md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Flash md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.partitions.bin
+File  md5: 85d302a40c50b3e9e2803f55e7b1d085
+Flash md5: 85d302a40c50b3e9e2803f55e7b1d085
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.bin
+File  md5: baa9ddb6a16e4217627e5630cc4c5fa6
+Flash md5: baa9ddb6a16e4217627e5630cc4c5fa6
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 36 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260806-18:26
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-V1.01-test.ino.bootloader.bin
+address/file: 32768 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-V1.01-test.ino.partitions.bin
+address/file: 57344 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\boot_app0.bin
+address/file: 65536 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-V1.01-test.ino.bin
+Wrote 20208 bytes (13058 compressed) at 0x00000000 in 0.4 seconds (effective 405.0 kbit/s)...
+Wrote 3072 bytes (137 compressed) at 0x00008000 in 0.1 seconds (effective 479.7 kbit/s)...
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.1 seconds (effective 620.2 kbit/s)...
+Wrote 1735728 bytes (1086150 compressed) at 0x00010000 in 16.1 seconds (effective 860.9 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-V1.01-test.ino.bootloader.bin
+File  md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Flash md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-V1.01-test.ino.partitions.bin
+File  md5: db4cd63ce66e5d4fa1591916beb3a878
+Flash md5: db4cd63ce66e5d4fa1591916beb3a878
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\boot_app0.bin
+File  md5: e6327541e2dc394ca2c3b3280ac0f39f
+Flash md5: e6327541e2dc394ca2c3b3280ac0f39f
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera-Module-V1.01-test.ino.bin
+File  md5: 863b9da2cae059de37ecca6e2c5b1950
+Flash md5: 863b9da2cae059de37ecca6e2c5b1950
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 23 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260807-09:05
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera_ESP32S3_1.83inch_PCBA-1.01_260204.ino.bootload.bin
+address/file: 32768 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera_ESP32S3_1.83inch_PCBA-1.01_260204.ino.partitions.bin
+address/file: 65536 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera_ESP32S3_1.83inch_PCBA-1.01_260204.ino.bin
+Wrote 20208 bytes (13058 compressed) at 0x00000000 in 0.4 seconds (effective 405.5 kbit/s)...
+Wrote 3072 bytes (137 compressed) at 0x00008000 in 0.1 seconds (effective 472.2 kbit/s)...
+Wrote 2894368 bytes (1596348 compressed) at 0x00010000 in 25.9 seconds (effective 892.6 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera_ESP32S3_1.83inch_PCBA-1.01_260204.ino.bootload.bin
+File  md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Flash md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera_ESP32S3_1.83inch_PCBA-1.01_260204.ino.partitions.bin
+File  md5: db4cd63ce66e5d4fa1591916beb3a878
+Flash md5: db4cd63ce66e5d4fa1591916beb3a878
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI-Camera_ESP32S3_1.83inch_PCBA-1.01_260204.ino.bin
+File  md5: 886fd94e6dbafd29c554975c51b36421
+Flash md5: 886fd94e6dbafd29c554975c51b36421
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 35 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260807-09:20
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.bootloader.bin
+address/file: 32768 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.partitions.bin
+address/file: 65536 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.bin
+Wrote 20208 bytes (13058 compressed) at 0x00000000 in 0.4 seconds (effective 402.7 kbit/s)...
+Wrote 3072 bytes (134 compressed) at 0x00008000 in 0.0 seconds (effective 502.3 kbit/s)...
+Wrote 2942032 bytes (1598659 compressed) at 0x00010000 in 26.5 seconds (effective 887.6 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.bootloader.bin
+File  md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Flash md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.partitions.bin
+File  md5: 85d302a40c50b3e9e2803f55e7b1d085
+Flash md5: 85d302a40c50b3e9e2803f55e7b1d085
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.0-Arduino.ino.bin
+File  md5: baa9ddb6a16e4217627e5630cc4c5fa6
+Flash md5: baa9ddb6a16e4217627e5630cc4c5fa6
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 36 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260814-10:03
+Connect baud: 115200
+Com:COM14
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.1-Arduino.ino.bootloader.bin
+address/file: 32768 J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.1-Arduino.ino.partitions.bin
+address/file: 65536 J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.1-Arduino.ino.bin
+Wrote 20208 bytes (13058 compressed) at 0x00000000 in 0.4 seconds (effective 362.6 kbit/s)...
+Wrote 3072 bytes (137 compressed) at 0x00008000 in 0.1 seconds (effective 476.2 kbit/s)...
+Wrote 2942192 bytes (1598803 compressed) at 0x00010000 in 29.6 seconds (effective 794.6 kbit/s)...
+File: J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.1-Arduino.ino.bootloader.bin
+File  md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Flash md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Hash of data verified.
+File: J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.1-Arduino.ino.partitions.bin
+File  md5: db4cd63ce66e5d4fa1591916beb3a878
+Flash md5: db4cd63ce66e5d4fa1591916beb3a878
+Hash of data verified.
+File: J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera-V1.1-Arduino.ino.bin
+File  md5: 4d1762e35b182e54c442d0888999ec3e
+Flash md5: 4d1762e35b182e54c442d0888999ec3e
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 48 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260814-10:08
+Connect baud: 115200
+Com:COM14
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera_V1.1_TestCode.ino.bootloader.bin
+address/file: 32768 J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera_V1.1_TestCode.ino.partitions.bin
+address/file: 57344 J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\boot_app0.bin
+address/file: 65536 J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera_V1.1_TestCode.ino.bin
+Wrote 20208 bytes (13058 compressed) at 0x00000000 in 0.5 seconds (effective 350.8 kbit/s)...
+Wrote 3072 bytes (137 compressed) at 0x00008000 in 0.1 seconds (effective 483.8 kbit/s)...
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.1 seconds (effective 614.6 kbit/s)...
+Wrote 1667984 bytes (1044059 compressed) at 0x00010000 in 17.4 seconds (effective 765.2 kbit/s)...
+File: J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera_V1.1_TestCode.ino.bootloader.bin
+File  md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Flash md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Hash of data verified.
+File: J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera_V1.1_TestCode.ino.partitions.bin
+File  md5: db4cd63ce66e5d4fa1591916beb3a878
+Flash md5: db4cd63ce66e5d4fa1591916beb3a878
+Hash of data verified.
+File: J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\boot_app0.bin
+File  md5: e6327541e2dc394ca2c3b3280ac0f39f
+Flash md5: e6327541e2dc394ca2c3b3280ac0f39f
+Hash of data verified.
+File: J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera_V1.1_TestCode.ino.bin
+File  md5: 5434ed7247fd50ec044e2b43ff9a893a
+Flash md5: 5434ed7247fd50ec044e2b43ff9a893a
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 48 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260818-17:56
+Connect baud: 115200
+Com:COM14
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera_V1.1_TestCode.ino.bootloader.bin
+address/file: 32768 J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera_V1.1_TestCode.ino.partitions.bin
+address/file: 57344 J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\boot_app0.bin
+address/file: 65536 J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera_V1.1_TestCode.ino.bin
+Wrote 20208 bytes (13058 compressed) at 0x00000000 in 0.4 seconds (effective 361.0 kbit/s)...
+Wrote 3072 bytes (137 compressed) at 0x00008000 in 0.1 seconds (effective 476.4 kbit/s)...
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.1 seconds (effective 629.3 kbit/s)...
+Wrote 1672432 bytes (1046546 compressed) at 0x00010000 in 17.7 seconds (effective 756.6 kbit/s)...
+File: J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera_V1.1_TestCode.ino.bootloader.bin
+File  md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Flash md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Hash of data verified.
+File: J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera_V1.1_TestCode.ino.partitions.bin
+File  md5: db4cd63ce66e5d4fa1591916beb3a878
+Flash md5: db4cd63ce66e5d4fa1591916beb3a878
+Hash of data verified.
+File: J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\boot_app0.bin
+File  md5: e6327541e2dc394ca2c3b3280ac0f39f
+Flash md5: e6327541e2dc394ca2c3b3280ac0f39f
+Hash of data verified.
+File: J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera_V1.1_TestCode.ino.bin
+File  md5: 984cd354216d6efa344e6aae5d701837
+Flash md5: 984cd354216d6efa344e6aae5d701837
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 34 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260818-18:40
+Connect baud: 115200
+Com:COM14
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera_V1.1_TestCode.ino.bootloader.bin
+address/file: 32768 J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera_V1.1_TestCode.ino.partitions.bin
+address/file: 57344 J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\boot_app0.bin
+address/file: 65536 J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera_V1.1_TestCode.ino.bin
+Wrote 20208 bytes (13058 compressed) at 0x00000000 in 0.5 seconds (effective 346.7 kbit/s)...
+Wrote 3072 bytes (137 compressed) at 0x00008000 in 0.1 seconds (effective 469.7 kbit/s)...
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.1 seconds (effective 630.1 kbit/s)...
+Wrote 1672176 bytes (1046435 compressed) at 0x00010000 in 17.7 seconds (effective 755.4 kbit/s)...
+File: J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera_V1.1_TestCode.ino.bootloader.bin
+File  md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Flash md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Hash of data verified.
+File: J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera_V1.1_TestCode.ino.partitions.bin
+File  md5: db4cd63ce66e5d4fa1591916beb3a878
+Flash md5: db4cd63ce66e5d4fa1591916beb3a878
+Hash of data verified.
+File: J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\boot_app0.bin
+File  md5: e6327541e2dc394ca2c3b3280ac0f39f
+Flash md5: e6327541e2dc394ca2c3b3280ac0f39f
+Hash of data verified.
+File: J:\AI_Camera_V11\AI-Camear-V1.1-ELECROW-Firmware\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\AI_Camera_V1.1_TestCode.ino.bin
+File  md5: 4c57bdddde17a7ee2f296e34119a5ef8
+Flash md5: 4c57bdddde17a7ee2f296e34119a5ef8
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 34 s
+Download result: PASS
+*************************** END ****************************
+

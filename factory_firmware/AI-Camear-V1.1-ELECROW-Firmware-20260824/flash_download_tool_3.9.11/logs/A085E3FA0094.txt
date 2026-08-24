@@ -1,0 +1,24 @@
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260626-14:32
+Connect baud: 115200
+Com:COM8
+connecting...
+manufacturer_id: 0xc8
+device_id: 0x4017
+fs:0x200200
+address/file: 0 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ThinkNode-G3_Release_V1.0_20250429.bin
+Wrote 1303600 bytes (750601 compressed) at 0x00000000 in 18.5 seconds (effective 564.6 kbit/s)...
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ThinkNode-G3_Release_V1.0_20250429.bin
+File  md5: 2141853c4624d434de5863e8c72d3454
+Flash md5: 2141853c4624d434de5863e8c72d3454
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 24 s
+Download result: PASS
+*************************** END ****************************
+

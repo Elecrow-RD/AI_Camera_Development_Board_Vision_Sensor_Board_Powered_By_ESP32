@@ -1,0 +1,66 @@
+Download button pressed
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: uart
+Start time: 20260618-10:06
+Connect baud: 115200
+Com:COM6
+connecting...
+manufacturer_id: 0xc8
+device_id: 0x4018
+fs:0x200200
+address/file: 8192 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+address/file: 32768 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partition-table.bin
+address/file: 65536 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\esp_brookesia_demo.bin
+address/file: 10485760 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\storage.bin
+Wrote 23424 bytes (14335 compressed) at 0x00002000 in 0.5 seconds (effective 395.6 kbit/s)...
+Wrote 3072 bytes (120 compressed) at 0x00008000 in 0.0 seconds (effective 1788.3 kbit/s)...
+Wrote 9762144 bytes (2532944 compressed) at 0x00010000 in 61.8 seconds (effective 1262.8 kbit/s)...
+Wrote 4194304 bytes (3199542 compressed) at 0x00a00000 in 41.1 seconds (effective 816.9 kbit/s)...
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+File  md5: a0f20d836a705b400dba0a8dbdceadae
+Flash md5: a0f20d836a705b400dba0a8dbdceadae
+Hash of data verified.
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partition-table.bin
+File  md5: fb579c28bd7acf59c7e4d1bedcc97b3a
+Flash md5: fb579c28bd7acf59c7e4d1bedcc97b3a
+Hash of data verified.
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\esp_brookesia_demo.bin
+File  md5: 60ccf6476c39fccaabf0422d3fe077db
+Flash md5: 60ccf6476c39fccaabf0422d3fe077db
+Hash of data verified.
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\storage.bin
+File  md5: d0ecd9b6879696f5dbcd220e2d7628a3
+Flash md5: d0ecd9b6879696f5dbcd220e2d7628a3
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 134 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: uart
+Start time: 20260618-10:09
+Connect baud: 115200
+Com:COM6
+connecting...
+manufacturer_id: 0xc8
+device_id: 0x4018
+fs:0x200200
+address/file: 11599872 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\storage.bin
+Wrote 4194304 bytes (3199542 compressed) at 0x00b10000 in 42.1 seconds (effective 796.7 kbit/s)...
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\storage.bin
+File  md5: d0ecd9b6879696f5dbcd220e2d7628a3
+Flash md5: d0ecd9b6879696f5dbcd220e2d7628a3
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 52 s
+Download result: PASS
+*************************** END ****************************
+

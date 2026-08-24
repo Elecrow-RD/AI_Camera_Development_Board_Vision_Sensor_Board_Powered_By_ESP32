@@ -1,0 +1,150 @@
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260708-11:17
+Connect baud: 115200
+Com:COM6
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\firmware-merged.bin
+Wrote 1221552 bytes (772632 compressed) at 0x00000000 in 18.4 seconds (effective 529.9 kbit/s)...
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\firmware-merged.bin
+File  md5: aecef6b8fcd994c0051ebdd84ac1fad7
+Flash md5: aecef6b8fcd994c0051ebdd84ac1fad7
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 24 s
+Download result: PASS
+*************************** END ****************************
+
+Erase button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260708-14:22
+Connect baud: 115200
+Com:COM13
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+com closed
+Total use time: 68 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260708-14:23
+Connect baud: 115200
+Com:COM13
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\firmware-merged.bin
+Wrote 1221552 bytes (772632 compressed) at 0x00000000 in 18.6 seconds (effective 525.2 kbit/s)...
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\firmware-merged.bin
+File  md5: aecef6b8fcd994c0051ebdd84ac1fad7
+Flash md5: aecef6b8fcd994c0051ebdd84ac1fad7
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 24 s
+Download result: PASS
+*************************** END ****************************
+
+Erase button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260724-11:57
+Connect baud: 115200
+Com:COM299
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+com closed
+Total use time: 72 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260724-11:58
+Connect baud: 115200
+Com:COM299
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\firmware-thinknode_m9-tft-2.8.0.f0ec12b.factory.bin
+Wrote 3904192 bytes (2158349 compressed) at 0x00000000 in 57.8 seconds (effective 540.1 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\firmware-thinknode_m9-tft-2.8.0.f0ec12b.factory.bin
+File  md5: 71c13ea01a2a82a5243c46c40e0043b7
+Flash md5: 71c13ea01a2a82a5243c46c40e0043b7
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 69 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260727-14:27
+Connect baud: 115200
+Com:COM299
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\Ripple-ThinknodeM9-v12.0-merged.bin
+Wrote 1788480 bytes (1158427 compressed) at 0x00000000 in 17.9 seconds (effective 797.8 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\Ripple-ThinknodeM9-v12.0-merged.bin
+File  md5: 1e62611a1a2c3f7752e43fa4f14c159e
+Flash md5: 1e62611a1a2c3f7752e43fa4f14c159e
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 25 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260727-14:34
+Connect baud: 115200
+Com:COM299
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\Ripple-ThinknodeM9-v12.0-merged.bin
+Wrote 1788480 bytes (1158427 compressed) at 0x00000000 in 18.4 seconds (effective 778.0 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\Ripple-ThinknodeM9-v12.0-merged.bin
+File  md5: 1e62611a1a2c3f7752e43fa4f14c159e
+Flash md5: 1e62611a1a2c3f7752e43fa4f14c159e
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 25 s
+Download result: PASS
+*************************** END ****************************
+

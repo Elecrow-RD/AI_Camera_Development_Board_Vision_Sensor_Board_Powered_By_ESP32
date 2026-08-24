@@ -1,0 +1,42 @@
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260611-16:12
+Connect baud: 115200
+Com:COM13
+connecting...
+manufacturer_id: 0x20
+device_id: 0x4017
+fs:0x200200
+address/file: 0 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ThinkNode-M7-Test_Arduino.ino.bootloader_0x0000.bin
+address/file: 32768 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ThinkNode-M7-Test_Arduino.ino.partitions_0x8000.bin
+address/file: 57344 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\boot_app0_0xE000.bin
+address/file: 65536 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ThinkNode-M7-Test_Arduino.ino_0x10000.bin
+Wrote 20224 bytes (13060 compressed) at 0x00000000 in 1.3 seconds (effective 125.0 kbit/s)...
+Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 843.6 kbit/s)...
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 2181.8 kbit/s)...
+Wrote 1267472 bytes (783766 compressed) at 0x00010000 in 69.4 seconds (effective 146.0 kbit/s)...
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ThinkNode-M7-Test_Arduino.ino.bootloader_0x0000.bin
+File  md5: 0059b162dbebaf552a243640e442c6b2
+Flash md5: 0059b162dbebaf552a243640e442c6b2
+Hash of data verified.
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ThinkNode-M7-Test_Arduino.ino.partitions_0x8000.bin
+File  md5: 801ba71678a964614657a6d8fbc6baca
+Flash md5: 801ba71678a964614657a6d8fbc6baca
+Hash of data verified.
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\boot_app0_0xE000.bin
+File  md5: e6327541e2dc394ca2c3b3280ac0f39f
+Flash md5: e6327541e2dc394ca2c3b3280ac0f39f
+Hash of data verified.
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ThinkNode-M7-Test_Arduino.ino_0x10000.bin
+File  md5: 03e6297196ad07af79d2e2660ecff1e0
+Flash md5: 03e6297196ad07af79d2e2660ecff1e0
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 77 s
+Download result: PASS
+*************************** END ****************************
+

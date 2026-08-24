@@ -1,0 +1,36 @@
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260813-14:48
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+fs:0x200200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\Advance_5.0_ESP32S3_RS485_Customization_260622.bootloader.bin
+address/file: 32768 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\Advance_5.0_ESP32S3_RS485_Customization_260622.partitions.bin
+address/file: 65536 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\Advance_5.0_ESP32S3_RS485_Customization_260622.ino.bin
+Wrote 14880 bytes (10566 compressed) at 0x00000000 in 0.2 seconds (effective 574.4 kbit/s)...
+Wrote 3072 bytes (134 compressed) at 0x00008000 in 0.0 seconds (effective 1077.1 kbit/s)...
+Wrote 3951664 bytes (1818528 compressed) at 0x00010000 in 26.6 seconds (effective 1186.4 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\Advance_5.0_ESP32S3_RS485_Customization_260622.bootloader.bin
+File  md5: fcd87244d3bd53528badc6682a8c566a
+Flash md5: fcd87244d3bd53528badc6682a8c566a
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\Advance_5.0_ESP32S3_RS485_Customization_260622.partitions.bin
+File  md5: 85d302a40c50b3e9e2803f55e7b1d085
+Flash md5: 85d302a40c50b3e9e2803f55e7b1d085
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\Advance_5.0_ESP32S3_RS485_Customization_260622.ino.bin
+File  md5: 4f762da34e2d1a6e9dbfb700d77cf39e
+Flash md5: 4f762da34e2d1a6e9dbfb700d77cf39e
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 38 s
+Download result: PASS
+*************************** END ****************************
+

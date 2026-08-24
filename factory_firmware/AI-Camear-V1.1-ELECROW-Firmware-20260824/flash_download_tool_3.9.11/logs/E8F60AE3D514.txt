@@ -1,0 +1,66 @@
+Download button pressed
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: uart
+Start time: 20260717-09:50
+Connect baud: 115200
+Com:COM22
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+Download button pressed
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: uart
+Start time: 20260717-09:50
+Connect baud: 115200
+Com:COM22
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 8192 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader_0x2000.bin
+Wrote 24112 bytes (14933 compressed) at 0x00002000 in 0.4 seconds (effective 430.6 kbit/s)...
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader_0x2000.bin
+File  md5: f9d465fb8c8b028784ff291ead36e8e6
+Flash md5: f9d465fb8c8b028784ff291ead36e8e6
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 5 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: uart
+Start time: 20260717-09:51
+Connect baud: 115200
+Com:COM22
+connecting...
+Download button pressed
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: uart
+Start time: 20260717-09:51
+Connect baud: 115200
+Com:COM22
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 8192 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader_0x2000.bin
+Wrote 24112 bytes (14933 compressed) at 0x00002000 in 0.4 seconds (effective 430.5 kbit/s)...
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader_0x2000.bin
+File  md5: f9d465fb8c8b028784ff291ead36e8e6
+Flash md5: f9d465fb8c8b028784ff291ead36e8e6
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 5 s
+Download result: PASS
+*************************** END ****************************
+

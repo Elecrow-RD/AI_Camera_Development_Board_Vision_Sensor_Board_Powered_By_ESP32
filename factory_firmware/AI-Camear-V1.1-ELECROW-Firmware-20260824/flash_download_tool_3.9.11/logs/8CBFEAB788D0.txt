@@ -1,0 +1,36 @@
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C6
+Download mode: uart
+Start time: 20260723-10:46
+Connect baud: 115200
+Com:COM326
+connecting...
+manufacturer_id: 0x20
+device_id: 0x4016
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ESP32-C6-V1.3-bootloader.bin
+address/file: 32768 C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ESP32-C6-V1.3-partition-table.bin
+address/file: 65536 C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ESP32-C6-V1.3-C6-WIFI6.bin
+Wrote 23008 bytes (14196 compressed) at 0x00000000 in 0.3 seconds (effective 616.0 kbit/s)...
+Wrote 3072 bytes (103 compressed) at 0x00008000 in 0.0 seconds (effective 4097.8 kbit/s)...
+Wrote 828464 bytes (482437 compressed) at 0x00010000 in 6.1 seconds (effective 1083.9 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ESP32-C6-V1.3-bootloader.bin
+File  md5: d4026927dd536c901bbd537f675e0b74
+Flash md5: d4026927dd536c901bbd537f675e0b74
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ESP32-C6-V1.3-partition-table.bin
+File  md5: 5d61d196adc3dba01928f264eb169be7
+Flash md5: 5d61d196adc3dba01928f264eb169be7
+Hash of data verified.
+File: C:\Users\DNZJ-115\Desktop\Rosie Test\ESP32-P4 DisplayоƬV3.2\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ESP32-C6-V1.3-C6-WIFI6.bin
+File  md5: f65207a9406828f713329c790b47bbff
+Flash md5: f65207a9406828f713329c790b47bbff
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 10 s
+Download result: PASS
+*************************** END ****************************
+

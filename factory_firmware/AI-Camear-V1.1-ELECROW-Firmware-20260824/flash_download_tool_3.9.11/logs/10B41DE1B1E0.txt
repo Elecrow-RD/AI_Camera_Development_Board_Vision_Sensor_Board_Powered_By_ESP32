@@ -1,0 +1,42 @@
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260618-14:24
+Connect baud: 115200
+Com:COM13
+connecting...
+manufacturer_id: 0x20
+device_id: 0x4017
+fs:0x200200
+address/file: 0 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader_0x0.bin
+address/file: 32768 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partition-table_8000.bin
+address/file: 53248 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ota_data_initial_d000.bin
+address/file: 65536 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\lorahub_0x10000.bin
+Wrote 22528 bytes (13935 compressed) at 0x00000000 in 0.5 seconds (effective 363.0 kbit/s)...
+Wrote 3072 bytes (139 compressed) at 0x00008000 in 0.0 seconds (effective 840.0 kbit/s)...
+Wrote 8192 bytes (31 compressed) at 0x0000d000 in 0.0 seconds (effective 2397.5 kbit/s)...
+Wrote 1242288 bytes (737067 compressed) at 0x00010000 in 17.4 seconds (effective 572.7 kbit/s)...
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader_0x0.bin
+File  md5: b01a54bc4a670ee1240eb476945cde1a
+Flash md5: b01a54bc4a670ee1240eb476945cde1a
+Hash of data verified.
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partition-table_8000.bin
+File  md5: 6013e92df849f5ab77a91f137ef40ebe
+Flash md5: 6013e92df849f5ab77a91f137ef40ebe
+Hash of data verified.
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\ota_data_initial_d000.bin
+File  md5: 84d04c9d6cc8ef35bf825d51a5277699
+Flash md5: 84d04c9d6cc8ef35bf825d51a5277699
+Hash of data verified.
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\lorahub_0x10000.bin
+File  md5: 0a4b5c756bba3460e46449412e708a4b
+Flash md5: 0a4b5c756bba3460e46449412e708a4b
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 24 s
+Download result: PASS
+*************************** END ****************************
+

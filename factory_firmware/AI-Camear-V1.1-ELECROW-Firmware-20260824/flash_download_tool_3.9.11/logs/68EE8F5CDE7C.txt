@@ -1,0 +1,375 @@
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260701-12:24
+Connect baud: 115200
+Com:COM6
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\firmware-merged (2).bin
+Wrote 1214720 bytes (769823 compressed) at 0x00000000 in 18.4 seconds (effective 527.6 kbit/s)...
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\firmware-merged (2).bin
+File  md5: ed87fd9d67dcac4a20b87d154fde2143
+Flash md5: ed87fd9d67dcac4a20b87d154fde2143
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 24 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260701-12:26
+Connect baud: 115200
+Com:COM6
+connecting...
+set STOP FLG: Trueset state: ESP_DL_STOP
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260708-11:09
+Connect baud: 115200
+Com:COM6
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\firmware-merged.bin
+Wrote 1221552 bytes (772632 compressed) at 0x00000000 in 18.4 seconds (effective 530.1 kbit/s)...
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\firmware-merged.bin
+File  md5: aecef6b8fcd994c0051ebdd84ac1fad7
+Flash md5: aecef6b8fcd994c0051ebdd84ac1fad7
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 24 s
+Download result: PASS
+*************************** END ****************************
+
+Erase button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260708-14:17
+Connect baud: 115200
+Com:COM13
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+com closed
+Total use time: 70 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260708-14:20
+Connect baud: 115200
+Com:COM13
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\firmware-merged.bin
+Wrote 1221552 bytes (772632 compressed) at 0x00000000 in 18.7 seconds (effective 523.4 kbit/s)...
+File: C:\Users\Willian\Desktop\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\firmware-merged.bin
+File  md5: aecef6b8fcd994c0051ebdd84ac1fad7
+Flash md5: aecef6b8fcd994c0051ebdd84ac1fad7
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 24 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260806-11:54
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\firmware-thinknode_m9-tft-2.8.0.c831343.factory-×îÖÕ°æ.bin
+Wrote 3902912 bytes (2153234 compressed) at 0x00000000 in 34.7 seconds (effective 899.8 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\firmware-thinknode_m9-tft-2.8.0.c831343.factory-×îÖÕ°æ.bin
+File  md5: 8e8dd99b06a2c70e1b675ca412d880b5
+Flash md5: 8e8dd99b06a2c70e1b675ca412d880b5
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 45 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260806-14:09
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\Ripple-ThinknodeM9-v12.0-merged (1).bin
+Wrote 1795728 bytes (1165602 compressed) at 0x00000000 in 17.3 seconds (effective 832.4 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\Ripple-ThinknodeM9-v12.0-merged (1).bin
+File  md5: 27ebcc28c64234b8310cdb8481bf4e18
+Flash md5: 27ebcc28c64234b8310cdb8481bf4e18
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 24 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260806-14:49
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\firmware-thinknode_m9-tft-2.8.0.f0ec12b.factory.bin
+Wrote 3927888 bytes (2171370 compressed) at 0x00000000 in 34.4 seconds (effective 912.3 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\firmware-thinknode_m9-tft-2.8.0.f0ec12b.factory.bin
+File  md5: 4596ba9af2fb8ea03c0962d15f64e39b
+Flash md5: 4596ba9af2fb8ea03c0962d15f64e39b
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 45 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260811-09:50
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\firmware-thinknode_m9-tft-2.8.0.61ec082.factory.bin
+Wrote 3934336 bytes (2173721 compressed) at 0x00000000 in 35.1 seconds (effective 897.6 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\firmware-thinknode_m9-tft-2.8.0.61ec082.factory.bin
+File  md5: 4133d2effc56527724464a4ccf8b91ca
+Flash md5: 4133d2effc56527724464a4ccf8b91ca
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 46 s
+Download result: PASS
+*************************** END ****************************
+
+Erase button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260811-09:52
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+com closed
+Total use time: 71 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260811-09:54
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\firmware-thinknode_m9-tft-2.8.0.61ec082.factory.bin
+Wrote 3934336 bytes (2173721 compressed) at 0x00000000 in 35.5 seconds (effective 887.4 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\firmware-thinknode_m9-tft-2.8.0.61ec082.factory.bin
+File  md5: 4133d2effc56527724464a4ccf8b91ca
+Flash md5: 4133d2effc56527724464a4ccf8b91ca
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 46 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260812-10:51
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\firmware-thinknode_m9-tft-2.8.0.f69fe2f.factory.bin
+Wrote 3932848 bytes (2173925 compressed) at 0x00000000 in 35.2 seconds (effective 892.7 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\firmware-thinknode_m9-tft-2.8.0.f69fe2f.factory.bin
+File  md5: c8f880721e01fcceb6bea74a59dd4a14
+Flash md5: c8f880721e01fcceb6bea74a59dd4a14
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 46 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260812-15:49
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\firmware-thinknode_m9-tft-2.7.27.18e143f.factory.bin
+Wrote 3621264 bytes (2051997 compressed) at 0x00000000 in 33.1 seconds (effective 874.4 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\firmware-thinknode_m9-tft-2.7.27.18e143f.factory.bin
+File  md5: 16458487d070437779e9c1bd6dde6231
+Flash md5: 16458487d070437779e9c1bd6dde6231
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 43 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260812-15:58
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\firmware-thinknode_m9-tft-2.8.0.f69fe2f.factory.bin
+Wrote 3932848 bytes (2173925 compressed) at 0x00000000 in 34.6 seconds (effective 909.6 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\firmware-thinknode_m9-tft-2.8.0.f69fe2f.factory.bin
+File  md5: c8f880721e01fcceb6bea74a59dd4a14
+Flash md5: c8f880721e01fcceb6bea74a59dd4a14
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 45 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260812-17:23
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\firmware-thinknode_m9-tft-2.8.0.85b785c.factory.bin
+Wrote 3924656 bytes (2169905 compressed) at 0x00000000 in 34.0 seconds (effective 922.8 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\firmware-thinknode_m9-tft-2.8.0.85b785c.factory.bin
+File  md5: 083b36b7d0711b174f5eb709a62847e7
+Flash md5: 083b36b7d0711b174f5eb709a62847e7
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 45 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260812-18:28
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\firmware-thinknode_m9-tft-2.7.27.18e143f.factory.bin
+Wrote 3621264 bytes (2051997 compressed) at 0x00000000 in 32.3 seconds (effective 896.6 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\firmware-thinknode_m9-tft-2.7.27.18e143f.factory.bin
+File  md5: 16458487d070437779e9c1bd6dde6231
+Flash md5: 16458487d070437779e9c1bd6dde6231
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 42 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260813-14:52
+Connect baud: 115200
+Com:COM329
+connecting...
+manufacturer_id: 0xba
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\firmware-thinknode_m9-tft-2.8.0.6e0a125.factory.bin
+Wrote 3924656 bytes (2169862 compressed) at 0x00000000 in 34.6 seconds (effective 906.7 kbit/s)...
+File: C:\Users\DNZJ-115\Desktop\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\firmware-thinknode_m9-tft-2.8.0.6e0a125.factory.bin
+File  md5: bc2a02d851784f94d3a327c8e14a5eca
+Flash md5: bc2a02d851784f94d3a327c8e14a5eca
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 45 s
+Download result: PASS
+*************************** END ****************************
+

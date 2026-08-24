@@ -1,0 +1,53 @@
+name: Arduino ESP32S3 Build
+
+on:
+  push:
+    branches: ["main", "v*"]
+  pull_request:
+    branches: ["main", "v*"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      LIB_DIR_NAME: AI_VOX
+      ARDUINO_CLI_DIR: ${{github.workspace}}/arduino_cli
+      ARDUINO_CLI_CONFIG_DIR: ${{github.workspace}}/arduino_cli_config
+      ARDUINO_USER_DIR: ${{github.workspace}}/arduino_user
+    strategy:
+      matrix:
+        example: ["esp32s3/ai_voice", "esp32s3/ai_voice_display_oled", "esp32s3/ai_voice_display_lcd"]
+
+    steps:
+      - name: download arduino cli
+        run: curl -L -o arduino-cli.tar.gz https://github.com/arduino/arduino-cli/releases/download/v1.2.0/arduino-cli_1.2.0_Linux_64bit.tar.gz
+      - name: install arduino cli
+        run: |
+          mkdir -p ${ARDUINO_CLI_DIR}
+          tar -zxvf arduino-cli.tar.gz -C ${ARDUINO_CLI_DIR}
+      - name: test arduino cli
+        run: ${ARDUINO_CLI_DIR}/arduino-cli -v
+      - name: setup arduino-cli
+        run: |
+          ${ARDUINO_CLI_DIR}/arduino-cli --config-dir ${ARDUINO_CLI_CONFIG_DIR} config init
+          ${ARDUINO_CLI_DIR}/arduino-cli --config-dir ${ARDUINO_CLI_CONFIG_DIR} config set directories.user ${ARDUINO_USER_DIR}
+          ${ARDUINO_CLI_DIR}/arduino-cli --config-dir ${ARDUINO_CLI_CONFIG_DIR} config set library.enable_unsafe_install true
+          ${ARDUINO_CLI_DIR}/arduino-cli --config-dir ${ARDUINO_CLI_CONFIG_DIR} config dump
+          ${ARDUINO_CLI_DIR}/arduino-cli --config-dir ${ARDUINO_CLI_CONFIG_DIR} core install esp32:esp32@3.2.0
+      - name: install lib lvgl@9.2.2
+        run: |
+          ${ARDUINO_CLI_DIR}/arduino-cli --config-dir ${ARDUINO_CLI_CONFIG_DIR} lib install "lvgl@9.2.2"
+      - name: checkout code
+        uses: actions/checkout@v4
+        with:
+          path: ai_vox
+      - name: zip
+        run: |
+          zip -r ai_vox.zip ai_vox
+      - name: install lib dependencies
+        run: |
+          ${ARDUINO_CLI_DIR}/arduino-cli --config-dir ${ARDUINO_CLI_CONFIG_DIR} lib install --zip-path ai_vox.zip
+      - name: compile
+        run: |
+          echo "compile ${ARDUINO_USER_DIR}/libraries/${LIB_DIR_NAME}/examples/${{matrix.example}}"
+          ${ARDUINO_CLI_DIR}/arduino-cli --config-dir ${ARDUINO_CLI_CONFIG_DIR} compile --fqbn esp32:esp32:esp32s3 "${ARDUINO_USER_DIR}/libraries/${LIB_DIR_NAME}/examples/${{matrix.example}}" -j 0 --warnings all --board-options "FlashSize=16M" --board-options "PartitionScheme=custom" --board-options "PSRAM=opi" --build-property "build.extra_flags=-Wall -Werror" --log --clean -v
